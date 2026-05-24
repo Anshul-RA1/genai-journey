@@ -34,3 +34,33 @@
 ---
 
 ## 📁 Repository Structure
+
+genai-journey/
+├── week-01/ # AI Fundamentals + Python for AI
+├── week-02/ # Prompt Engineering
+├── week-03/ # Embeddings + Vector DBs
+├── week-04/ # RAG Systems
+├── week-05/ # LangChain
+├── week-06/ # LangGraph
+├── week-07/ # CrewAI Multi-Agent
+├── week-08/ # Advanced RAG
+├── week-09/ # FastAPI + Docker
+├── week-10/ # LLMOps + Evaluation
+├── week-11/ # Fine-Tuning
+└── week-12/ # Capstone Project
+
+---
+
+## 🎯 Goal
+
+Land a GenAI Engineer role targeting ₹20–35 LPA by mastering:
+
+- LLM APIs (Anthropic Claude, OpenAI GPT-4o)
+- RAG Systems (LangChain, Pinecone, ChromaDB)
+- AI Agents (LangGraph, CrewAI, AutoGen)
+- Production Deployment (FastAPI, Docker, AWS)
+- LLMOps (MLflow, Ragas, Guardrails AI)
+
+---
+
+_Started: May 2026 | LinkedIn: [your-linkedin-url]_
