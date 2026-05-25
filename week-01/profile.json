@@ -1,0 +1,13 @@
+{
+  "name": "Anshul",
+  "role": "Senior System Engineer",
+  "company": "TCS",
+  "location": "Germany",
+  "skills": [
+    "SAS",
+    "Python",
+    "Power BI"
+  ],
+  "experience_years": 7,
+  "is_learning_genai": true
+}
